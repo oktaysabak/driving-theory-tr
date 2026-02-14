@@ -10868,7 +10868,7 @@ Trafik polis tarafından düzenlenir, bu yüzden kırmızı arabanın önce gitm
 - A. - Kavşakta beklemeliyim
 
 **Açıklama:**
-Bir trafik polisi trafiği yönlendiriyorsa talimatlara uyulmalıdır.  Bu durumda trafik polisi önünüzde, yüzü size dönük ve kolları uzanmış halde duruyor. Bu, kavşakta beklemeniz gerektiği ve sağdan ve soldan gelen araçların geçiş hakkına sahip olduğu anlamına gelir.
+Bir trafik polisi trafiği yönlendiriyorsa talimatlara uyulmalıdır. Bu durumda trafik polisi önünüzde, yüzü size dönük ve kolları uzanmış halde duruyor. Bu, kavşakta beklemeniz gerektiği ve sağdan ve soldan gelen araçların geçiş hakkına sahip olduğu anlamına gelir.
 
 ---
 
@@ -11773,7 +11773,7 @@ Yeşil ve kırmızı arabalar dönüş yapan ana yoldalar. Siz tali yoldasınız
 - B. [Sarı araç] [kırmızı aracın] önüne geçebilir
 
 **Açıklama:**
-Siz ve sarı araba dönüş yapan bir ana yoldasınız. Kırmızı araba ise tali yolda.  Sarı araba ana yolda kaldığı için, önce onun sürmesine izin verilir. Siz ikinci ve kırmızı araba da en son sürebilir.
+Siz ve sarı araba dönüş yapan bir ana yoldasınız. Kırmızı araba ise tali yolda. Sarı araba ana yolda kaldığı için, önce onun sürmesine izin verilir. Siz ikinci ve kırmızı araba da en son sürebilir.
 
 ---
 
@@ -32263,7 +32263,7 @@ Camdaki hava sirkülasyonunu artırarak camın buğulanmasını önleyebilirsini
 - C. - Aydınlatma tertibatlarından temizlemem gerekir
 
 **Açıklama:**
-Sürüş sırasında düşebileceği ve diğer yol kullanıcılarını tehlikeye atabileceği için yola çıkmadan önce karı tüm araçtan temizlemelisiniz. Ayrıca, fren yaptığınızda kar ön camınıza kayabilir, görüşünüzü engelleyebilir ve tamamen hareket edememenize neden olabilir.  Ayrıca, diğer yol kullanıcılarının sizi zamanında görebilmesi ve karanlık aydınlatma koşullarında bile yeterli görüşe sahip olmanız için, aydınlatma ekipmanındaki karı da temizleyin. 
+Sürüş sırasında düşebileceği ve diğer yol kullanıcılarını tehlikeye atabileceği için yola çıkmadan önce karı tüm araçtan temizlemelisiniz. Ayrıca, fren yaptığınızda kar ön camınıza kayabilir, görüşünüzü engelleyebilir ve tamamen hareket edememenize neden olabilir. Ayrıca, diğer yol kullanıcılarının sizi zamanında görebilmesi ve karanlık aydınlatma koşullarında bile yeterli görüşe sahip olmanız için, aydınlatma ekipmanındaki karı da temizleyin. 
 Ayrıca plakalarınızı karla kaplamadığınızdan emin olun. Plakaların okunaksız olması durumunda idari suç ve para cezası riskiyle karşı karşıya kalırsınız.
 
 ---
@@ -32510,7 +32510,7 @@ Bir mola verdikten sonra, ayak boşluğunda gevşek bir nesne olmadığından em
 - C. Uygun bir yardımla (ör. süpürge) brandaya içeriden bastırılarak
 
 **Açıklama:**
-Aracın buzunu çözerken, düşme riskini en aza indirmek için yeterli düşme korumasına sahip buz çözme köprüleri veya buz çözme merdivenleri gibi uygun yardımcıların kullanılması önemlidir.  Branda yapısının uygun bir aletle içeriden bastırılması, çatıya çıkmaya gerek kalmadan buz ve karı gevşetmeyi mümkün kılar, bu da kaza riskini azaltır.
+Aracın buzunu çözerken, düşme riskini en aza indirmek için yeterli düşme korumasına sahip buz çözme köprüleri veya buz çözme merdivenleri gibi uygun yardımcıların kullanılması önemlidir. Branda yapısının uygun bir aletle içeriden bastırılması, çatıya çıkmaya gerek kalmadan buz ve karı gevşetmeyi mümkün kılar, bu da kaza riskini azaltır.
 
 ---
 
