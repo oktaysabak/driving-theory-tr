@@ -1,0 +1,77 @@
+/* Modern Theme Selector */
+.theme-selector {
+  width: 100%;
+}
+
+.theme-selector h2 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: var(--text-primary);
+  text-align: center;
+}
+
+.themes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.theme-button {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  padding: 32px 24px;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  min-height: 180px;
+  color: var(--text-primary);
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.theme-button:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary-color);
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 10px 10px -5px rgb(0 0 0 / 0.1);
+  background: #334155;
+  /* Slightly lighter than card-bg for hover */
+}
+
+.theme-icon {
+  margin-bottom: 16px;
+  color: var(--secondary-color);
+  width: 48px;
+  height: 48px;
+  transition: transform 0.2s ease;
+  background: rgba(236, 72, 153, 0.1);
+  padding: 12px;
+  border-radius: 50%;
+}
+
+.theme-button:hover .theme-icon {
+  transform: scale(1.1) rotate(5deg);
+  background: var(--secondary-color);
+  color: white;
+}
+
+.theme-button span {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--text-primary);
+  max-width: 200px;
+}
+
+.no-themes {
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 1.25em;
+  margin-top: 50px;
+}
